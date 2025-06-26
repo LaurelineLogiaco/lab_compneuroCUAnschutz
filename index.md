@@ -3,7 +3,7 @@
 
 # Laureline Logiaco's Website
 
-An engaging 1-3 sentence description of your lab.
+We study how our brain controls our body so we can interact with the world. To do so, we develop neural network models that capture key features of different interacting brain regions. We study the dynamics of these models, how they learn from observations, and how they give rise to adaptive behavior.
 
 {% include section.html %}
 
@@ -11,7 +11,7 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Project 1.
 
 {%
   include button.html
@@ -34,7 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Project 2.
 
 {%
   include button.html
