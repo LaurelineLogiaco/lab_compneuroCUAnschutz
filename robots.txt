@@ -1,1 +1,1 @@
-Sitemap: https://laurelinelogiaco.github.io/website_LLogiaco/sitemap.xml
+Sitemap: https://laurelinelogiaco.github.io/lab_compneuroCUAnschutz/sitemap.xml
