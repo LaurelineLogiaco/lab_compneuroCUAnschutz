@@ -1,9 +1,9 @@
 ---
 ---
 
-# Laureline Logiaco's Website
+# Neural Dynamics, Control and Learning - NDCL - lab
 
-We study how our brain controls our body so we can interact with the world. To do so, we develop neural network models that capture key features of how different brain regions interact while we perform our daily tasks. We study the dynamics of these models, how they learn from observations, and how they give rise to adaptive behavior.
+We study how our brain controls our body so we can interact with the world. To do so, we develop neural network models that emulate how different brain regions interact while we perform our daily tasks. We study the dynamics of these models, how they can learn despite having only access to ambiguous and sparse feedback from the world, and how they give rise to adaptive behavior.
 
 {% include section.html %}
 
