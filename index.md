@@ -1,13 +1,13 @@
 ---
 ---
 
-# Neural Dynamics, Control & Learning Lab — NDCL Lab
+# Neural Dynamics, Control & Learning - NDCL - Lab
 
 We study how our brain controls our body so we can interact with the world.
 
 To do so, we develop neural network models that emulate how different brain regions interact while we perform our daily tasks. We study the dynamics of these models, how they can learn despite having only access to ambiguous and sparse feedback from the world, and how they give rise to adaptive behavior. We also test the insights from these models in brain recordings.
 
-Besides answering fundamental questions about the brain, we also look for the translational benefits that our models can bear, notably for developing neuroprostheses that can replace lost function from a diseased brain circuit and communicate with spared circuits through simulations.
+Besides answering fundamental questions about the brain, we also look for the translational benefits that our models can bear. Specifically, we are interested in integrating our models in neuroprostheses that can replace lost function from a diseased brain circuit and communicate with spared circuits through simulations.
 
 {% include section.html %}
 
