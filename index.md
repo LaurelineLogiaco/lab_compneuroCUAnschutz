@@ -3,7 +3,7 @@
 
 # Laureline Logiaco's Website
 
-We study how our brain controls our body so we can interact with the world. To do so, we develop neural network models that capture key features of different interacting brain regions. We study the dynamics of these models, how they learn from observations, and how they give rise to adaptive behavior.
+We study how our brain controls our body so we can interact with the world. To do so, we develop neural network models that capture key features of how different brain regions interact while we perform our daily tasks. We study the dynamics of these models, how they learn from observations, and how they give rise to adaptive behavior.
 
 {% include section.html %}
 
