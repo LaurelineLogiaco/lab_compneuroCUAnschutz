@@ -5,6 +5,6 @@
 
   # LaurelineLogiaco's Website
 
-  Visit **[laurelinelogiaco.github.io/website_LLogiaco](https://laurelinelogiaco.github.io/website_LLogiaco)** 🚀
+  Visit **[laurelinelogiaco.github.io/lab_compneuroCUAnschutz](https://laurelinelogiaco.github.io/lab_compneuroCUAnschutz)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
