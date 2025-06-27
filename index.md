@@ -1,7 +1,7 @@
 ---
 ---
 
-# Neural Dynamics, Control & Learning - NDCL - Lab
+# Neural Dynamics, Control & Learning Lab
 
 We study how our brain controls our body so we can interact with the world.
 
