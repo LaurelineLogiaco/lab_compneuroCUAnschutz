@@ -8,12 +8,12 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@LaurelineLogiaco.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: laureline.logiaco@cuanschutz.edu
+  orcid: 0000-0001-5252-7662
+  google-scholar: NFQh44IAAAAJ
   github: LaurelineLogiaco
-  twitter: LaurelineLogiaco
-  youtube: LaurelineLogiaco
+  #twitter: LaurelineLogiaco
+  #youtube: LaurelineLogiaco
 
 ### jekyll settings
 
