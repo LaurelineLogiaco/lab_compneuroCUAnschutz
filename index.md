@@ -11,11 +11,11 @@ Besides answering fundamental questions about the brain, we also look for the tr
 
 {% include section.html %}
 
-## Highlights
+## Research directions at a glance
 
 {% capture text %}
 
-Research direction: building structured neural network models of mammalian brain regions.
+Building structured neural network models of mammalian brain regions.
 
 {%
   include button.html
