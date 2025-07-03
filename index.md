@@ -15,7 +15,6 @@ Besides answering fundamental questions about the brain, we also look for the tr
 
 {% capture text %}
 
-Building structured neural network models of mammalian brain regions.
 
 {%
   include button.html
@@ -32,13 +31,13 @@ Building structured neural network models of mammalian brain regions.
   include feature.html
   image="images/photo.jpg"
   link="research"
-  title="Research direction: building structured neural network models of mammalian brain regions"
+  title="Building structured neural network models of mammalian brain regions"
   text=text
 %}
 
 {% capture text %}
 
-Research direction: testing insights from neural motor control models with brain data.
+Research direction: 
 
 {%
   include button.html
@@ -55,7 +54,7 @@ Research direction: testing insights from neural motor control models with brain
   include feature.html
   image="images/photo.jpg"
   link="projects"
-  title="Our Projects"
+  title="Testing insights from neural motor control models with brain data"
   flip=true
   style="bare"
   text=text
@@ -63,7 +62,6 @@ Research direction: testing insights from neural motor control models with brain
 
 {% capture text %}
 
-Research direction: mathematical & computational analysis of the dynamics of structured neural network models.
 
 {%
   include button.html
@@ -80,14 +78,14 @@ Research direction: mathematical & computational analysis of the dynamics of str
   include feature.html
   image="images/photo.jpg"
   link="team"
-  title="Our Team"
+  title="Mathematical & computational analysis of the dynamics of structured neural network models"
   text=text
 %}
 
 
 {% capture text %}
 
-Research direction: using computational neural network models of mammalian brain regions to design neuroprostheses.
+
 
 {%
   include button.html
@@ -104,6 +102,6 @@ Research direction: using computational neural network models of mammalian brain
   include feature.html
   image="images/photo.jpg"
   link="team"
-  title="Our Team"
+  title="Using computational neural network models of mammalian brain regions to design neuroprostheses"
   text=text
 %}
