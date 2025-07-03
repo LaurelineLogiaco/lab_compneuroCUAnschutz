@@ -20,7 +20,7 @@ Research direction: building structured neural network models of mammalian brain
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="See more detail"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
