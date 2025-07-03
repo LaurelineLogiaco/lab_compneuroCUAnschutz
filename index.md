@@ -31,7 +31,7 @@ Besides answering fundamental questions about the brain, we also look for the tr
   include feature.html
   image="images/photo.jpg"
   link="research"
-  title="Building structured neural network models of mammalian brain regions"
+  title="Building structured neural network models of the motor regions of the mammalian brain"
   text=text
 %}
 
