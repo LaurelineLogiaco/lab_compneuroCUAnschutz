@@ -15,7 +15,7 @@ Besides answering fundamental questions about the brain, we also look for the tr
 
 {% capture text %}
 
-Project 1.
+Research direction: building structured neural network models of mammalian brain regions.
 
 {%
   include button.html
@@ -38,7 +38,7 @@ Project 1.
 
 {% capture text %}
 
-Project 2.
+Research direction: testing insights from neural motor control models with brain data.
 
 {%
   include button.html
@@ -63,7 +63,31 @@ Project 2.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Research direction: mathematical & computational analysis of the dynamics of structured neural network models.
+
+{%
+  include button.html
+  link="team"
+  text="Meet our team"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="team"
+  title="Our Team"
+  text=text
+%}
+
+
+{% capture text %}
+
+Research direction: using computational neural network models of mammalian brain regions to design neuroprostheses.
 
 {%
   include button.html
