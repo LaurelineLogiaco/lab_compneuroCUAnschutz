@@ -32,7 +32,7 @@ Research direction: building structured neural network models of mammalian brain
   include feature.html
   image="images/photo.jpg"
   link="research"
-  title="Our Research"
+  title="Research direction: building structured neural network models of mammalian brain regions"
   text=text
 %}
 
