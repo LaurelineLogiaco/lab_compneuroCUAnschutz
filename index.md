@@ -42,7 +42,7 @@ Research direction:
 {%
   include button.html
   link="projects"
-  text="Browse our projects"
+  text="See more detail"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -66,7 +66,7 @@ Research direction:
 {%
   include button.html
   link="team"
-  text="Meet our team"
+  text="See more detail"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -90,7 +90,7 @@ Research direction:
 {%
   include button.html
   link="team"
-  text="Meet our team"
+  text="See more detail"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
