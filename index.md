@@ -37,7 +37,7 @@ Besides answering fundamental questions about the brain, we also look for the tr
 
 {% capture text %}
 
-Research direction: 
+
 
 {%
   include button.html
