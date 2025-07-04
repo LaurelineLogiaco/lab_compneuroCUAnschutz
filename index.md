@@ -103,5 +103,7 @@ Research direction:
   image="images/photo.jpg"
   link="team"
   title="Using computational neural network models of mammalian brain regions to design smart neuroprostheses"
+  flip=true
+  style="bare"
   text=text
 %}
