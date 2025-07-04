@@ -102,6 +102,6 @@ Research direction:
   include feature.html
   image="images/photo.jpg"
   link="team"
-  title="Using computational neural network models of mammalian brain regions to design neuroprostheses"
+  title="Using computational neural network models of mammalian brain regions to design smart neuroprostheses"
   text=text
 %}
