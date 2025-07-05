@@ -52,7 +52,7 @@ Besides answering fundamental questions about the brain, we also look for the tr
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/pic_dataAnalysis_whiteBackgrnd.png"
   link="projects"
   title="Testing insights from neural motor control models with brain data"
   flip=true
