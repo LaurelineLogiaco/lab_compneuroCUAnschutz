@@ -76,7 +76,7 @@ Besides answering fundamental questions about the brain, we also look for the tr
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/TheoryIllutr_figF.png"
   link="team"
   title="Mathematical & computational analysis of the dynamics of structured neural network models"
   text=text
