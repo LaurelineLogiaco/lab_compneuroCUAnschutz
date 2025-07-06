@@ -2,7 +2,7 @@
 title: Research directions
 nav:
   order: 1
-  tooltip: Software, datasets, and more
+  [//]: # tooltip: Software, datasets, and more
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
