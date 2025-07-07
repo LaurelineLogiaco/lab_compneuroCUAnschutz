@@ -100,7 +100,7 @@ Besides answering fundamental questions about the brain, we also look for the tr
 
 {%
   include feature.html
-  image="images/showSmartBMI_stimulation_v2.png
+  image="images/showSmartBMI_stimulation_v2.png"
   link="team"
   title="Using computational neural network models of mammalian brain regions to design smart neuroprostheses"
   flip=true
