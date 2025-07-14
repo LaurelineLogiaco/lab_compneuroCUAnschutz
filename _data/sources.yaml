@@ -1,3 +1,10 @@
+- id: doi:10.1016/j.celrep.2021.10909
+  type: paper
+  description:
+  date: 2021-06-1
+  image: https://www.cell.com/cms/10.1016/j.celrep.2021.109090/asset/b4799bbf-b66c-4402-bd73-55b7e18222c6/main.assets/fx1_lrg.jpg
+
+
 
 #- id: doi:10.1371/journal.pcbi.1007128
 #  type: paper
@@ -16,8 +23,3 @@
 #    - open science
 #    - collaboration
 #  repo: greenelab/meta-review
-
-- id: doi:10.1016/j.celrep.2021.10909
-  type: paper
-  image: https://www.cell.com/cms/10.1016/j.celrep.2021.109090/asset/b4799bbf-b66c-4402-bd73-55b7e18222c6/main.assets/fx1_lrg.jpg
-
