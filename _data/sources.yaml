@@ -53,11 +53,11 @@
   tags:
   repo:
 
- - id: doi:10.1371/journal.pbio.1002222
+- id: doi:10.1371/journal.pbio.1002222
   type: paper
   description:
   date: 2015-08-12
-  image: 
+  image: https://journals.plos.org/plosbiology/article/figure/image?size=large&id=10.1371/journal.pbio.1002222.g002
   buttons:
   tags:
   repo:
