@@ -25,6 +25,15 @@
   buttons:
   tags:
   repo:
+
+- id: doi:10.12751/NNCN.BC2023.264
+  type: conf_abstract
+  description:
+  date: 2023-09-18
+  image: https://laurelinelogiaco.github.io/lab_compneuroCUAnschutz/images/general_multiRegionNN_brain_schematic.png
+  buttons:
+  tags:
+  repo:
   
 #- id: doi:10.1371/journal.pcbi.1007128
 #  type: paper
