@@ -15,8 +15,17 @@
   image: https://onlinelibrary.wiley.com/cms/asset/f556751e-b642-4d16-b696-c85fc6c61832/ejn16553-toc-0001-m.jpg
   buttons:
   tags:
-  repo:  
+  repo:
 
+- id:
+  type: book
+  description:
+  date: 2023-12-01
+  image: https://oup.silverchair-cdn.com/oup/backfile/content_public/books/55212/parts/med-9780197676158-chapter-34/1/s_med-9780197676158-graphic-125.jpeg?Expires=2147483647&Signature=tEc-lryfiyiY7RqrKeg7fgyMbl6ATTDFUoYPK3qoWkDVEB-8DzJUmMS4f46qsTNl5QBhdTrEu17S9c1sCjkrb~F~tEgSjD9iYpbAwkx6xpplW~xAfMWKjIJvgY731FCDN6btnXbyn27R14xS0IhXsBz-~cCWF2q3DdHKmtEHHZtFj8gqZWBI4e52x7b4BsmDHDxzyB46Ct84RCSfUBHbIQGl6OS2wZ5HGxSaTD3tH9p7KDfcNhBVDVR1ta002mmJGZWxYwzpDlPtCHEzbapJLHV-FcnQ~pyhkwoOboECiYlbbIEuVpsdSi~A0KCFkgp8YZG~FZffQzgXg30MXOKqTQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  buttons:
+  tags:
+  repo:
+  
 #- id: doi:10.1371/journal.pcbi.1007128
 #  type: paper
 #  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
