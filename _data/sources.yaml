@@ -8,6 +8,15 @@
   repo:
 
 
+- id: doi:10.1111/ejn.16553
+  type: paper
+  description:
+  date: 2024-10-04
+  image: https://onlinelibrary.wiley.com/cms/asset/f556751e-b642-4d16-b696-c85fc6c61832/ejn16553-toc-0001-m.jpg
+  buttons:
+  tags:
+  repo:  
+
 #- id: doi:10.1371/journal.pcbi.1007128
 #  type: paper
 #  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
