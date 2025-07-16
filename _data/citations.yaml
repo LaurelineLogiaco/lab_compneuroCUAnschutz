@@ -130,3 +130,22 @@
   buttons: null
   tags: null
   repo: null
+- id: doi:10.1371/journal.pbio.1002222
+  title: Spatiotemporal Spike Coding of Behavioral Adaptation in the Dorsal Anterior
+    Cingulate Cortex
+  authors:
+  - Laureline Logiaco
+  - "Ren\xE9 Quilodran"
+  - Emmanuel Procyk
+  - Angelo Arleo
+  publisher: PLOS Biology
+  date: '2015-08-12'
+  link: https://doi.org/f7qdfs
+  type: paper
+  description: null
+  image: https://journals.plos.org/plosbiology/article/figure/image?size=large&id=10.1371/journal.pbio.1002222.g002
+  buttons: null
+  tags: null
+  repo: null
+  plugin: sources.py
+  file: sources.yaml
