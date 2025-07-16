@@ -34,6 +34,33 @@
   buttons:
   tags:
   repo:
+
+- id: doi:10.3389/fnsyn.2020.585539
+  type: paper
+  description:
+  date: 2020-11-02
+  image: https://www.frontiersin.org/files/Articles/585539/fnsyn-12-585539-HTML-r2/image_m/fnsyn-12-585539-g001.jpg
+  buttons:
+  tags:
+  repo:
+
+-id: pmid:26266537
+  type: paper
+  description:
+  date: 2015-08-12
+  image: https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002222
+  buttons:
+  tags:
+  repo:
+
+- id: doi:10.1101/2019.12.17.880153
+  type: preprint
+  description:
+  date: 2019-12-18
+  image: https://www.biorxiv.org/content/biorxiv/early/2019/12/18/2019.12.17.880153/F1.medium.gif
+  buttons:
+  tags:
+  repo:
   
 #- id: doi:10.1371/journal.pcbi.1007128
 #  type: paper
