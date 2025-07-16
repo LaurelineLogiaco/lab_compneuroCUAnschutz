@@ -57,7 +57,7 @@
   type: paper
   description:
   date: 2015-08-12
-  image: https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.pbio.1002222/1/pbio.1002222.g002.PNG_I?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20250716%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250716T191542Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=9c7384acd18cab3386178ff9745790eb678d7cbf25cfaf67730428f1766eba8113a15d649c2f93d7fb142627674d305b071081a7c2866856b14c5393ea34b685864a21b10e2915a9ffd659f0956c4127090470d73800cd1dc2a39bdfc1ae10e861b4083a095452c25c4936c2dd4553e50accf7f1ac454c6db74a4f5065fc530ccfc0a9d6256a103a29d83e687a6db1276f21517d30bdd8650e2e498d5108739713b2e2e736ecc0ff0a59c29a8767281190a993dfee667c4deb5d44437991832341dbc8b27e9e3f286358302e9291958d5eb2c07fbb84c64774db7c3ac34b464416fa6219dfc09bae24128c12493ae6f808548d28ffcba6cafedd399d097aab94
+  image: 
   buttons:
   tags:
   repo:
