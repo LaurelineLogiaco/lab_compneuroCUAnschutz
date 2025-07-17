@@ -136,3 +136,20 @@
   buttons: null
   tags: null
   repo: null
+- id: arXiv:2006.13332
+  title: Thalamocortical motor circuit insights for more robust hierarchical control
+    of complex sequences
+  authors:
+  - Laureline Logiaco
+  - G. Sean Escola
+  publisher: arXiv
+  date: '2020-06-23'
+  link: https://arxiv.org/abs/2006.13332
+  type: preprint
+  description: null
+  image: https://arxiv.org/pdf/2006.13332
+  buttons: null
+  tags: null
+  repo: null
+  plugin: sources.py
+  file: sources.yaml
