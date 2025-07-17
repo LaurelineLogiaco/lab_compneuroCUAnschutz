@@ -61,6 +61,15 @@
   buttons:
   tags:
   repo:
+
+- id: arXiv:2006.13332
+  type: preprint
+  description:
+  date: 2020-06-23
+  image: https://arxiv.org/pdf/2006.13332
+  buttons:
+  tags:
+  repo:
   
 #- id: doi:10.1371/journal.pcbi.1007128
 #  type: paper
