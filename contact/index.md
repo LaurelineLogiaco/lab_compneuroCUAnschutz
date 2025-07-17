@@ -7,20 +7,22 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Our group is hosted at the Colorado University Anschutz medical campus.
+Our group is hosted at the Colorado University Anschutz medical campus, in the Health Sciences Building.
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="laureline.logiaco@cuanschutz.edu"
+  link="laureline.logiaco@cuanschutz.edu"
 %}
+<!--
 {%
   include button.html
   type="phone"
   text="(555) 867-5309"
   link="+1-555-867-5309"
 %}
+-->
 {%
   include button.html
   type="address"
