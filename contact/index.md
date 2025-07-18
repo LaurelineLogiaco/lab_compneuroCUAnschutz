@@ -7,7 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
+<center>
 Our group is hosted at the Colorado University Anschutz medical campus, in the Health Sciences Building.
+</center>
 
 {%
   include button.html
