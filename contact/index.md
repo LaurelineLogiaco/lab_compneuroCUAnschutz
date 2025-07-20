@@ -38,7 +38,7 @@ In addition, we are part of a growing community of computational neuroscientists
 {%
   include figure.html
   image="images/try_small_CUANschutzCampusMountain.png"
-  caption="Colorado University Anschutz medical campus"
+  caption="CU Anschutz medical campus"
 %}
 
 {% endcapture %}
