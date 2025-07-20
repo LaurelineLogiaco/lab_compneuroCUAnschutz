@@ -16,12 +16,11 @@ In addition, we are part of a growing community of computational neuroscientists
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-\
 
 {%
   include button.html
   type="email"
-  text="laureline.logiaco@cuanschutz.edu"
+  text="email"
   link="laureline.logiaco@cuanschutz.edu"
 %}
 
