@@ -37,8 +37,8 @@ In addition, we are part of a growing community of computational neuroscientists
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/try_small_CUANschutzCampusMountain.png"
+  caption="Colorado University Anschutz medical campus"
 %}
 
 {% endcapture %}
@@ -47,10 +47,18 @@ In addition, we are part of a growing community of computational neuroscientists
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/HSB.jpg"
+  caption="Health Science Building on campus"
+%}
+
+{% capture col3 %}
+
+{%
+  include figure.html
+  image="images/CUAnschutzHealthScienceBuilding-min.png"
+  caption="Atrium of the Health Science building"
 %}
 
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 %}
+{% include cols.html col1=col1 col2=col2 col3=col3 %}
