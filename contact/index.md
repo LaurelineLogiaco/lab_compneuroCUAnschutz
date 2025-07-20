@@ -9,7 +9,7 @@ nav:
 
 Our group is hosted at the Colorado University Anschutz medical campus, in the Health Sciences Building.
 
-We benefit from a strong experimental neuroscience community through our affiliation with the department of Physiology and Biophysics, as well as a grounding in a translational environment as we belong to the University of Colorado Hospital's medical school and have a secondary affiliation with the Department of Biomedical Informatics.
+We are embedded in a strong experimental neuroscience community through our affiliation with the department of Physiology and Biophysics. We also benefit from an environment that facilitates translational applications to health as we belong to the University of Colorado Hospital's medical school and have a secondary affiliation with the Department of Biomedical Informatics.
 
 In addition, we are part of a growing community of computational neuroscientists in the broader Denver area, including the group led by [Tahra Eissa](https://eissalab.com/) in our department, [Mazen Al Borno](https://cse.ucdenver.edu/~alborno/#home) at Colorado University Denver, and [Zachary Kilpatrik](https://www.colorado.edu/amath/zpkilpat) at Colorado University Boulder.
 
