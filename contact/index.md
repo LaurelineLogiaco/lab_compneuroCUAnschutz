@@ -48,7 +48,7 @@ In addition, we are part of a growing community of computational neuroscientists
 {%
   include figure.html
   image="images/HSB.jpg"
-  caption="Health Science Building on CU Anschutz campus"
+  caption="Health Science Building at CU Anschutz"
 %}
 
 {% endcapture %}
@@ -58,7 +58,7 @@ In addition, we are part of a growing community of computational neuroscientists
 {%
   include figure.html
   image="images/CUAnschutzHealthScienceBuilding-min.png"
-  caption="Atrium of the Health Science building"
+  caption="Atrium of the Health Science Building"
 %}
 
 {% endcapture %}
