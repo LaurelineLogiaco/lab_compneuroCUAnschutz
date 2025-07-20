@@ -51,6 +51,8 @@ In addition, we are part of a growing community of computational neuroscientists
   caption="Health Science Building on campus"
 %}
 
+{% endcapture %}
+
 {% capture col3 %}
 
 {%
