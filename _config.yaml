@@ -29,6 +29,12 @@ defaults:
       type: "members"
     values:
       layout: member
+
+  - scope:
+      type: "researchdirections"
+    values:
+      layout: member
+
   # markdown files in /_posts
   - scope:
       type: "posts"
