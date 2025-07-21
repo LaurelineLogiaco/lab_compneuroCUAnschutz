@@ -9,7 +9,7 @@ Our efforts to make progress on understanding how the brain control movement fol
 
 {% include section.html %}
 
-{% include list.html data="researchdirections" component="projects" filter="role == 'pi'" %}
+{% include list.html data="researchdirections" component="portrait" filter="role == 'pi'" %}
 
 [//]: # # {% include icon.html icon="fa-solid fa-wrench" %} Researh directions
 
