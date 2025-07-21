@@ -37,11 +37,9 @@ Besides answering fundamental questions about the brain, we also look for the tr
 
 {% capture text %}
 
-
-
 {%
   include button.html
-  link="projects"
+  link="projects/project1"
   text="See more detail"
   icon="fa-solid fa-arrow-right"
   flip=true
