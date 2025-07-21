@@ -5,9 +5,14 @@ nav:
   [//]: # tooltip: Software, datasets, and more
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %} Researh directions
+Our efforts to make progress on understanding how the brain control movement follow a few main research directions. You can browse them below by clicking on each card.
 
-Our efforts to make progress on understanding how the brain control movement follow a few main research directions. You can browse them below.
+{% include section.html %}
+
+{% include list.html data="researchdirections" component="projects" filter="role != 'pi'" %}
+{% include list.html data="researchdirections" component="projects" filter="role == 'pi'" %}
+
+[//]: # # {% include icon.html icon="fa-solid fa-wrench" %} Researh directions
 
 [//]: # {% include tags.html tags="publication, resource, website" %}
 
@@ -19,8 +24,8 @@ Our efforts to make progress on understanding how the brain control movement fol
 
 [//]: # {% include list.html component="card" data="projects" filter="group == 'featured'" %}
 
-#{% include section.html %}
+[//]: # #{% include section.html %}
 
-## Click on each card to learn more
+[//]: # ## Click on each card to learn more
 
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
+[//]: # {% include list.html component="card" data="projects" filter="!group" style="small" %}
