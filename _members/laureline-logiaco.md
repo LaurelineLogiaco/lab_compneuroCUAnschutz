@@ -1,5 +1,5 @@
 ---
-name: Laureline Smith
+name: Laureline Logiaco
 image: images/LLogiacoPic.png
 role: principal-investigator
 affiliation: University of Colorado
