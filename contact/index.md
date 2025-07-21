@@ -37,7 +37,7 @@ In addition, we are part of a growing community of computational neuroscientists
 
 {%
   include figure.html
-  image="images/broaderDenverArea-min_cropped.png"
+  image="images/broaderDenverArea_croppedAgain.png"
   caption="Broader Denver area"
 %}
 
