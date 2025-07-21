@@ -14,7 +14,3 @@ We are a growing team of people who listen to one another, value each other's un
 {% include list.html data="members" component="portrait" filter="role != 'pi'" %}
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
-
-
-{% include grid.html style="square" content=content %}
