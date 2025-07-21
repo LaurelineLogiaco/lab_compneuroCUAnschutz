@@ -13,7 +13,7 @@ Our efforts to make progress on understanding how the brain control movement fol
 
 [//]: # {% include search-info.html %}
 
-{% include section.html %}
+[//]: # {% include section.html %}
 
 [//]: # ## Featured
 
