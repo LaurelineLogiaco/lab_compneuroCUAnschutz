@@ -5,7 +5,7 @@ nav:
   [//]: # tooltip: Software, datasets, and more
 ---
 
-{% include icon.html icon="fa-solid fa-wrench" %}Researh directions
+# {% include icon.html icon="fa-solid fa-wrench" %} Researh directions
 
 Our efforts to make progress on understanding how the brain control movement follow a few main research directions. You can browse them below.
 
