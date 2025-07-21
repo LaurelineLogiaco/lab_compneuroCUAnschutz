@@ -2,7 +2,7 @@
 name: Building structured neural network models of the motor regions of the mammalian brain
 image: images/MultiRegionNet.png
 role: principal-investigator
-affiliation: University of Colorado
+[//]: # affiliation: University of Colorado
 aliases:
   - Logiaco
   - L. Logiaco
