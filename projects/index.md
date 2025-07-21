@@ -7,10 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our efforts to make progress on understanding how the brain control movement follow a few main research directions. You can browse them below.
 
-{% include tags.html tags="publication, resource, website" %}
+#{% include tags.html tags="publication, resource, website" %}
 
 {% include search-info.html %}
 
