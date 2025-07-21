@@ -11,7 +11,7 @@ Our efforts to make progress on understanding how the brain control movement fol
 
 [//]: # {% include tags.html tags="publication, resource, website" %}
 
-{% include search-info.html %}
+[//]: # {% include search-info.html %}
 
 {% include section.html %}
 
