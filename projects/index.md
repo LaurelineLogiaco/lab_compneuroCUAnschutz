@@ -1,6 +1,5 @@
 ---
 title: Research directions
-layout: member
 nav:
   order: 1
   [//]: # tooltip: Software, datasets, and more
