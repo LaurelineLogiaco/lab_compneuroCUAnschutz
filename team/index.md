@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-We are a growing team of people who listen to one another, value each other's unique expertise and perspective, and are united in our efforts to study how the brain generates movement.
+We are a growing team of people who value each other's unique expertise and perspective, and are united in our efforts to study how the brain generates movement.
 
 {% include section.html %}
 
