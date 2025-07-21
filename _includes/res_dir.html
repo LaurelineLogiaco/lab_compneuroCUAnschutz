@@ -1,0 +1,51 @@
+{% if include.lookup %}
+  {% assign researchdirections = site.researchdirectionss 
+    | where_exp: "researchdirections", "researchdirections.slug == include.lookup"
+    | first
+  %}
+{% else %}
+  {% assign researchdirections = include %}
+{% endif %}
+
+{% assign type = site.data.types[researchdirections.role] %}
+
+<div class="portrait-wrapper">
+  <a
+    {% if page.slug != researchdirections.slug %}
+      href="{{ researchdirections.url | relative_url | uri_escape }}"
+    {% endif %}
+    class="portrait"
+    data-style="{{ include.style }}"
+    aria-label="{{ researchdirections.name | default: "researchdirections link" | regex_strip }}"
+  >
+    {% if type %}
+      {% include icon.html icon=type.icon %}
+    {% endif %}
+
+    <img
+      src="{{ researchdirections.image | relative_url | uri_escape }}"
+      class="portrait-image"
+      alt="researchdirections portrait"
+      loading="lazy"
+      {% include fallback.html %}
+    >
+
+    {% if researchdirections.name %}
+      <span class="portrait-name">
+        {{ researchdirections.name }}
+      </span>
+    {% endif %}
+
+    {% if researchdirections.description or type %}
+      <span class="portrait-description">
+        {{ researchdirections.description | default: type.description }}
+      </span>
+    {% endif %}
+
+    {% if researchdirections.affiliation %}
+      <span class="portrait-affiliation">
+        {{ researchdirections.affiliation }}
+      </span>
+    {% endif %}
+  </a>
+</div>
