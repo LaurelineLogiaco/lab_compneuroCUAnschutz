@@ -18,7 +18,7 @@ Besides answering fundamental questions about the brain, we also look for the tr
 
 {%
   include button.html
-  link="research"
+  link="projects/project1"
   text="See more detail"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -39,7 +39,7 @@ Besides answering fundamental questions about the brain, we also look for the tr
 
 {%
   include button.html
-  link="projects/project1"
+  link="projects/project2"
   text="See more detail"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -51,7 +51,7 @@ Besides answering fundamental questions about the brain, we also look for the tr
 {%
   include feature.html
   image="images/pic_dataAnalysis_whiteBackgrnd.png"
-  link="projects"
+  link="projects/project2"
   title="Testing insights from neural motor control models with brain data"
   flip=true
   style="bare"
@@ -63,7 +63,7 @@ Besides answering fundamental questions about the brain, we also look for the tr
 
 {%
   include button.html
-  link="team"
+  link="projects/project3"
   text="See more detail"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -75,7 +75,7 @@ Besides answering fundamental questions about the brain, we also look for the tr
 {%
   include feature.html
   image="images/TheoryIllutr_figF.png"
-  link="team"
+  link="projects/project3"
   title="Mathematical & computational analysis of the dynamics of structured neural network models"
   text=text
 %}
@@ -87,7 +87,7 @@ Besides answering fundamental questions about the brain, we also look for the tr
 
 {%
   include button.html
-  link="team"
+  link="projects/project4"
   text="See more detail"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -99,7 +99,7 @@ Besides answering fundamental questions about the brain, we also look for the tr
 {%
   include feature.html
   image="images/showSmartBMI_stimulation_vPleaseBig.png"
-  link="team"
+  link="projects/project4"
   title="Using computational neural network models of mammalian brain regions to design smart neuroprostheses"
   flip=true
   style="bare"
