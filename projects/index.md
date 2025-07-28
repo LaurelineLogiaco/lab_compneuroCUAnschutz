@@ -5,7 +5,7 @@ nav:
   [//]: # tooltip: Software, datasets, and more
 ---
 
-Our efforts to advance the understanding of how the brain controls movement through computational approaches follow a few main research directions. You can learn more about each of them by clicking on the links below.
+Our efforts to advance the understanding of how the brain controls behavior follow a few main research directions that emphasize a computational approach. You can learn more about each of them by clicking on the links below.
 
 {% capture text %}
 

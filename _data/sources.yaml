@@ -21,7 +21,7 @@
   type: book
   description:
   date: 2023-12-01
-  image: https://oup.silverchair-cdn.com/oup/backfile/content_public/books/55212/parts/med-9780197676158-chapter-34/1/s_med-9780197676158-graphic-125.jpeg?Expires=2147483647&Signature=tEc-lryfiyiY7RqrKeg7fgyMbl6ATTDFUoYPK3qoWkDVEB-8DzJUmMS4f46qsTNl5QBhdTrEu17S9c1sCjkrb~F~tEgSjD9iYpbAwkx6xpplW~xAfMWKjIJvgY731FCDN6btnXbyn27R14xS0IhXsBz-~cCWF2q3DdHKmtEHHZtFj8gqZWBI4e52x7b4BsmDHDxzyB46Ct84RCSfUBHbIQGl6OS2wZ5HGxSaTD3tH9p7KDfcNhBVDVR1ta002mmJGZWxYwzpDlPtCHEzbapJLHV-FcnQ~pyhkwoOboECiYlbbIEuVpsdSi~A0KCFkgp8YZG~FZffQzgXg30MXOKqTQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: images/chapterGraph.png
   buttons:
   tags:
   repo:
@@ -30,7 +30,7 @@
   type: conf_abstract
   description:
   date: 2023-09-18
-  image: https://laurelinelogiaco.github.io/lab_compneuroCUAnschutz/images/general_multiRegionNN_brain_schematic.png
+  image: images/dualCntrl_proj1_v2.png
   buttons:
   tags:
   repo:
@@ -66,7 +66,7 @@
   type: preprint
   description:
   date: 2020-06-23
-  image: https://arxiv.org/pdf/2006.13332
+  image: images/ML_draft_thalamocortical.png
   buttons:
   tags:
   repo:
