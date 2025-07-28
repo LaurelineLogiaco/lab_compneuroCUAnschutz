@@ -9,7 +9,7 @@ While largely interconnected and integrated, the mammalian brain is composed of 
 
 {% include section.html size="full" %}
 
-{% include figure.html image="images/general_multiRegionNN_brain_schematic.png" width="40%" %}
+{% include figure.html image="images/general_multiRegionNN_brain_schematic_v2.png" width="40%" %}
 
 {% include section.html %}
 
