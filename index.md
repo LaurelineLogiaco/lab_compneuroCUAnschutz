@@ -52,7 +52,7 @@ Besides answering fundamental questions about the brain, we also look for the tr
   include feature.html
   image="images/pic_dataAnalysis_whiteBackgrnd.png"
   link="projects/project2"
-  title="Testing insights from neural network models with brain data"
+  title="Testing insights from models with brain data"
   flip=true
   style="bare"
   text=text

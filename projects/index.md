@@ -46,7 +46,7 @@ Our efforts to advance the understanding of how the brain controls behavior foll
   include feature.html
   image="images/pic_dataAnalysis_whiteBackgrnd.png"
   link="projects/project2"
-  title="Testing insights from neural motor control models with brain data"
+  title="Testing insights from models with brain data"
   flip=true
   style="bare"
   text=text

@@ -2,7 +2,7 @@
 title: Project2
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %} Testing insights from neural network models with brain data
+# {% include icon.html icon="fa-solid fa-microscope" %} Testing insights from models with brain data
 
 We develop neural network models whose underlying hypotheses provide a good explanation for an ensemble of experimental results available in the literature.
 
