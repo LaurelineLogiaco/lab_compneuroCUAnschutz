@@ -1,1 +1,1 @@
-Sitemap: http://www.necolelab.com/sitemap.xml
+Sitemap: https://www.necolelab.com/sitemap.xml
