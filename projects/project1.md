@@ -5,7 +5,7 @@ title: Project1
 # {% include icon.html icon="fa-solid fa-microscope" %} Building structured neural network models of the motor regions of the mammalian brain
 
 
-While largely interconnected and integrated, the mammalian brain is composed of distinct anatomical regions that have different development programs and different architectures. Notably, the neurons — the cells that compose each brain region — are organized according to different connectivity patterns in these different brain regions. If one of these areas is damaged — for instance, because of trauma or stroke — this leads to [specific deficits](https://www.youtube.com/shorts/yri-cHlQYIg).
+While largely interconnected and integrated, the mammalian brain is composed of distinct anatomical regions that have different developmental programs and architectures. Notably, the neurons — the cells that compose each brain region — are organized according to unique connectivity patterns in these different brain regions. If one of these areas is damaged — for instance, because of trauma or stroke — this leads to [specific deficits](https://www.youtube.com/shorts/yri-cHlQYIg).
 
 {% include section.html size="full" %}
 
@@ -55,7 +55,7 @@ For instance, we have focused on the interactions between the motor thalamus (a 
 
 {% capture text %}
 
-In another ongoing project, we ask why two brain systems — the primary motor cortex (in red) and the cerebellum with associated integrative sensorimotor cortices (in green) — are both shaping motor commands. We argue that experimental results are broadly consistent with a model where the former system learns to produce a motor command based on a form of goal-driven reinforcement learning, while the latter system learns to produce a motor command based on a form of predictive self-supervised learning. We are building such a model by leveraging adcanced machine learning techniques. This allows us to study how this dual controller facilitates quickly adaptive motor control.
+In another ongoing project, we ask why two brain systems — the primary motor cortex (in red) and the cerebellum with associated integrative sensorimotor cortices (in green) — are both shaping motor commands. We argue that experimental results are broadly consistent with a model where the former system learns to produce a motor command based on a form of goal-driven reinforcement learning, while the latter system learns to produce a motor command based on a form of predictive self-supervised learning. We are building such a model by leveraging advanced machine learning techniques. This allows us to study how this dual controller facilitates quickly adaptive motor control.
 
 {%
   include button.html
