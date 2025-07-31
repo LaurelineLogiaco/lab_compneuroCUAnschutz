@@ -59,7 +59,7 @@ Notably, a thalamocortical model we recently developed makes unique predictions 
 
 {% capture text %}
 
-We are collaborating with [Adam Hantman and Stephan Lemke](https://www.med.unc.edu/neuroscience/hantmanlab/directory/), who train mice, record from their brains, and perform brain stimulation experiments. To test predictions of our model, we are analyzing data recorded in the motor cortex and thalamus of mice performing a motor sequence during which they reach for, grasp, and finally retract and eat a pellet.
+We are collaborating with [Adam Hantman and Stefan Lemke](https://www.med.unc.edu/neuroscience/hantmanlab/directory/), who train mice, record from their brains, and perform brain stimulation experiments. To test predictions of our model, we are analyzing data recorded in the motor cortex and thalamus of mice performing a motor sequence during which they reach for, grasp, and finally retract and eat a pellet.
 
 {% endcapture %}
 
