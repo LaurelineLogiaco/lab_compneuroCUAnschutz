@@ -27,7 +27,11 @@ In addition, these models can be probed more fully than the actual brain. This m
 
 {% capture text %}
 
-For instance, we have focused on the interactions between the motor thalamus (a small brain region whose neurons cannot directly excite one another) and the motor cortex (a larger brain region where neurons can excite one another through recurrent connections). By analyzing and simulating models of this circuit, we found that this neural network architecture is well-suited to interface efficiently with action selection signals during action sequencing.
+For instance, we have focused on the interactions between the motor thalamus (a small brain region whose neurons cannot directly excite one another) and the motor cortex (a larger brain region where neurons can excite one another through recurrent connections). By analyzing and simulating models of this circuit, we found that this neural network architecture is well-suited to interface efficiently with action selection signals during hierarchical action sequencing. Specifically, it
+facilitates (i) learning many new movements without forgetting previously
+learned ones; and (ii) forming sequences by stringing movements in
+arbitrary orders, which can generalize beyond initially learned movement orderings.
+
 
 
 {%
