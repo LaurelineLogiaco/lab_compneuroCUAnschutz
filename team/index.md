@@ -27,7 +27,7 @@ If you are interested in joining us, please contact [Laureline Logiaco](mailto:l
 
 {%
   include figure.html
-  image="images/team_pic.HEIC"
+  image="images/team_pic.png"
   caption=""
 %}
 
