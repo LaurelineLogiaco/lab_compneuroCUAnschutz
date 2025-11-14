@@ -9,7 +9,7 @@ nav:
 
 We are a growing team of people who value each other's unique expertise and perspective, and are united in our efforts to study how the brain generates movement.
 
-If you are interested in joining us, please contact [Laureline Logiaco](mailto:laureline.logiaco@cuanschutz.edu) and include a CV and a statement of research interests. Laureline is affiliated with the [Neuroscience](https://www.cuanschutz.edu/graduate-programs/neuroscience/home), [Bioengineering](https://engineering.ucdenver.edu/bioengineering/graduate-programs/phd-in-bioengineering) and [Computational Bioscience](https://www.cuanschutz.edu/graduate-programs/computational-bioscience/home) graduate programs.
+If you are interested in joining us, please contact [Laureline Logiaco](mailto:laureline.logiaco@cuanschutz.edu) and include a CV and a statement of research interests. Laureline is affiliated with the [Neuroscience](https://www.cuanschutz.edu/graduate-programs/neuroscience/home), [Bioengineering](https://engineering.ucdenver.edu/bioengineering/graduate-programs/phd-in-bioengineering) and [Computational Bioscience](https://www.cuanschutz.edu/graduate-programs/computational-bioscience/home) graduate programs, and has completed the [CIMER Entering Mentoring training program](https://graduateschool.cuanschutz.edu/mentoring).
 
 {% include section.html %}
 
