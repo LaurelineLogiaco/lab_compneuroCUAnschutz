@@ -8,7 +8,7 @@ aliases:
   - L. Logiaco
   - L Logiaco
 links:
-  bluesky: https://bsky.app/profile/laurelinelogiaco.bsky.social
+  bluesky: laurelinelogiaco.bsky.social
   orcid: 0000-0001-5252-7662
   email: laureline.logiaco@cuanschutz.edu
   [//]: # home-page: https://www.simonsfoundation.org/people/laureline-logiaco/
