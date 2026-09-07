@@ -97,6 +97,17 @@
   buttons: null
   tags: null
   repo: null
+- id: doi:10.70675/d0e0b158zf9d6z47b4z969az505bf340185b
+  title: 'Temporal modulation of the dynamics of neuronal networks with cognitive
+    function : experimental evidence and theoretical analysis'
+  authors:
+  - Laureline Logiaco
+  publisher: "Agence Bibliographique de l'Enseignement Sup\xE9rieur"
+  date: ''
+  link: https://doi.org/hbv4c3
+  orcid: 0000-0001-5252-7662
+  plugin: orcid.py
+  file: orcid.yaml
 - id: pmid:26266537
   title: Spatiotemporal Spike Coding of Behavioral Adaptation in the Dorsal Anterior
     Cingulate Cortex.
@@ -124,7 +135,7 @@
   - Laureline Logiaco
   - L.F. Abbott
   - Sean Escola
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2019-12-18'
   link: https://doi.org/ghqn3c
   orcid: 0000-0001-5252-7662
