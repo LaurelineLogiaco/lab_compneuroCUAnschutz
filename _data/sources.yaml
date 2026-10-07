@@ -70,6 +70,64 @@
   buttons:
   tags:
   repo:
+
+- title: A thalamocortical RNN architecture for flexible and robust motor sequencing
+  authors:
+    - Abhijnana Das
+    - G Sean Escola
+    - Laureline Logiaco
+  publisher: Cognitive Computational Neuroscience
+  date: 2026-08-06
+  link: https://2026.ccneuro.org/poster/?id=Glc8qP3q6Q
+  type: conf_abstract
+  image: images/ML_draft_thalamocortical.png
+  description:
+  buttons:
+    - type: website
+      text: Abstract
+      link: https://openreview.net/pdf?id=Glc8qP3q6Q
+  tags:
+    - conference
+  repo:
+
+- title: Complementary model-free and model-based motor learning systems unify experimental results across scales and species
+  authors:
+    - Lakshmi Narasimhan Govindarajan
+    - Sunny Duan
+    - Sol Markman
+    - Nikasha Patel
+    - Ila R Fiete
+    - Laureline Logiaco
+  publisher: Cognitive Computational Neuroscience
+  date: 2026-08-06
+  link: https://2026.ccneuro.org/poster/?id=eOsQ28EKWE
+  type: conf_abstract
+  image: images/LakshmiSunny_project_quick.png
+  description: Top 10% of reviewed abstracts. Spotlight presentation at CCN 2026.
+  buttons:
+    - type: website
+      text: Abstract
+      link: https://openreview.net/pdf?id=eOsQ28EKWE
+  tags:
+    - conference
+  repo:
+
+
+- id: doi:10.12751/NNCN.BC2026.253
+  authors:
+    - Akhilan Boopathy
+    - Caitlin Lienkaemper
+    - Sarthak Chandra
+    - Laureline Logiaco
+  type: conf_abstract
+  description: Conference abstract
+  image: images/TheoryMIT_crew_Bersntein.png
+  buttons:
+    - type: website
+      text: Abstract
+      link: https://doi.org/10.12751/NNCN.BC2026.253
+  tags:
+    - conference
   
 #- id: doi:10.1371/journal.pcbi.1007128
 #  type: paper

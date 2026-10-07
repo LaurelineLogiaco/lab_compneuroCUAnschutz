@@ -1,5 +1,27 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.12751/NNCN.BC2026.253
+  title: How does the absence of excitatory recurrence constrain neural dynamics?
+  authors:
+  - Akhilan Boopathy
+  - Caitlin Lienkaemper
+  - Sarthak Chandra
+  - Laureline Logiaco
+  publisher: G-Node
+  date: '2026-09-22'
+  link: https://doi.org/hckqv8
+  orcid: 0000-0001-5252-7662
+  plugin: sources.py
+  file: sources.yaml
+  type: conf_abstract
+  description: Conference abstract
+  image: images/TheoryMIT_crew_Bersntein.png
+  buttons:
+  - type: website
+    text: Abstract
+    link: https://doi.org/10.12751/NNCN.BC2026.253
+  tags:
+  - conference
 - id: doi:10.1111/ejn.16553
   title: Emerging perspectives for the study of the neural basis of motor behaviour
   authors:
@@ -97,6 +119,17 @@
   buttons: null
   tags: null
   repo: null
+- id: doi:10.70675/d0e0b158zf9d6z47b4z969az505bf340185b
+  title: 'Temporal modulation of the dynamics of neuronal networks with cognitive
+    function : experimental evidence and theoretical analysis'
+  authors:
+  - Laureline Logiaco
+  publisher: "Agence Bibliographique de l'Enseignement Sup\xE9rieur"
+  date: ''
+  link: https://doi.org/hbv4c3
+  orcid: 0000-0001-5252-7662
+  plugin: orcid.py
+  file: orcid.yaml
 - id: pmid:26266537
   title: Spatiotemporal Spike Coding of Behavioral Adaptation in the Dorsal Anterior
     Cingulate Cortex.
@@ -124,7 +157,7 @@
   - Laureline Logiaco
   - L.F. Abbott
   - Sean Escola
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2019-12-18'
   link: https://doi.org/ghqn3c
   orcid: 0000-0001-5252-7662
@@ -150,6 +183,50 @@
   image: images/ML_draft_thalamocortical.png
   buttons: null
   tags: null
+  repo: null
+  plugin: sources.py
+  file: sources.yaml
+- title: A thalamocortical RNN architecture for flexible and robust motor sequencing
+  authors:
+  - Abhijnana Das
+  - G Sean Escola
+  - Laureline Logiaco
+  publisher: Cognitive Computational Neuroscience
+  date: '2026-08-06'
+  link: https://2026.ccneuro.org/poster/?id=Glc8qP3q6Q
+  type: conf_abstract
+  image: images/ML_draft_thalamocortical.png
+  description: null
+  buttons:
+  - type: website
+    text: Abstract
+    link: https://openreview.net/pdf?id=Glc8qP3q6Q
+  tags:
+  - conference
+  repo: null
+  plugin: sources.py
+  file: sources.yaml
+- title: Complementary model-free and model-based motor learning systems unify experimental
+    results across scales and species
+  authors:
+  - Lakshmi Narasimhan Govindarajan
+  - Sunny Duan
+  - Sol Markman
+  - Nikasha Patel
+  - Ila R Fiete
+  - Laureline Logiaco
+  publisher: Cognitive Computational Neuroscience
+  date: '2026-08-06'
+  link: https://2026.ccneuro.org/poster/?id=eOsQ28EKWE
+  type: conf_abstract
+  image: images/LakshmiSunny_project_quick.png
+  description: Top 10% of reviewed abstracts. Spotlight presentation at CCN 2026.
+  buttons:
+  - type: website
+    text: Abstract
+    link: https://openreview.net/pdf?id=eOsQ28EKWE
+  tags:
+  - conference
   repo: null
   plugin: sources.py
   file: sources.yaml

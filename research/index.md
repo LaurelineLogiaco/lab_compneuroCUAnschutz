@@ -13,7 +13,7 @@ You can browse our published works here - from peer-reviewed full research paper
 
 ## Highlighted
 
-{% include citation.html lookup="Thalamic control" style="rich" %}
+{% include citation.html lookup="Complementary model-free and model-based" style="rich" %}
 
 {% include section.html %}
 

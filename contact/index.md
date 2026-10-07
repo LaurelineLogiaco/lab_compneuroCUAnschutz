@@ -11,7 +11,7 @@ Our group is hosted at the Colorado University Anschutz Medical Campus, in the [
 
 We are embedded in a strong experimental neuroscience community through our affiliation with the [Department of Physiology and Biophysics](https://medschool.cuanschutz.edu/physiology), while also being integrated into computational communities through our secondary affiliations with the [Department of Biomedical Informatics](https://medschool.cuanschutz.edu/dbmi) and [CU Boulder's Computer Science Department](https://www.colorado.edu/cs/) (by courtesy). We further benefit from a highly translational environment, as we are part of the [CU School of Medicine](https://medschool.cuanschutz.edu/) and closely connected to the University of Colorado Hospital.
 
-In addition, we are part of a growing community of computational neuroscientists in the broader Denver area, including the groups led by [Tahra Eissa](https://eissalab.com/) in our department, [Mazen Al Borno](https://cse.ucdenver.edu/~alborno/#home) at Colorado University Denver, and [Zachary Kilpatrick](https://www.colorado.edu/amath/zpkilpat) at Colorado University Boulder.
+In addition, we are part of a growing community of computational neuroscientists in the broader Denver area, including the groups led by [Tahra Eissa](https://eissalab.com/) and [Chris Cueva](https://scholar.google.com/citations?user=BxLgolsAAAAJ&hl=en) in our department, and [Zachary Kilpatrick](https://www.colorado.edu/amath/zpkilpat) at Colorado University Boulder.
 
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
